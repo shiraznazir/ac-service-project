@@ -1,0 +1,68 @@
+* {
+  box-sizing: box;
+  width: 100%;
+}
+body{
+  display: block;
+  margin: 8px;
+}
+.body-part {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+
+
+.about{
+  display: flex;
+}
+.about-image{
+  flex-direction: row;
+  border: 1px solid black;
+  margin: 0;
+  padding: 10px 7px 0 0;
+  float: left;
+  width: 30%;
+}
+.about-image img {
+  width: 98%;
+  margin: 0 4px;
+  border: 1px solid #ddd;
+  padding: 0;
+  float: left;
+  margin-bottom: 6px;
+  list-style: none !important;
+  border-radius: 10px;
+}
+
+.chanelpartner{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.cp-items{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.about-text{
+  font-size: 14px;
+}
+
+.con-img{
+  width: 80px;
+  height: 60px;
+  padding: 20px;
+  justify-content: left;
+}

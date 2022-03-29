@@ -1,0 +1,122 @@
+.footer {
+  background-color: #afd9d5;
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  padding: 5px;
+  justify-content: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  margin-top: 20px;
+}
+
+@media (max-width: 800px) {
+  .footer {
+    flex-direction: column;
+  }
+}
+h4 {
+  color: #a43238;
+  font-size: 1.5rem;
+}
+
+.company-logo {
+  color: #a43238;
+  margin: 20px;
+}
+
+.text {
+  font-size: medium;
+  text-align: left;
+  padding: 5px;
+  margin-left: 20px;
+}
+.service {
+  text-align: start;
+  font-size: 16px;
+}
+
+.img {
+  width: 40px;
+  height: 50px;
+}
+
+.contact {
+  text-align: left;
+}
+
+.address {
+  font-size: 14px;
+}
+
+.air-containers {
+  margin: 10px;
+  text-align: left;
+  font-size: 1rem;
+  padding: 10px;
+}
+.vareity {
+  padding: 5px;
+  list-style: none;
+}
+
+.service {
+  margin: 10px;
+  text-align: left;
+  font-size: 1rem;
+  padding: 10px;
+}
+.services {
+  padding: 5px;
+  list-style: none;
+}
+.contact {
+  margin: 10px;
+  text-align: left;
+  font-size: 1rem;
+  padding: 10px;
+}
+.contacts {
+  margin: 2px;
+  padding: 5px;
+}
+
+.contact-logo {
+  margin-right: 10px;
+  width: 25px;
+  height: 50px;
+  display: inline-block;
+}
+.company-logo {
+  margin-left: 10px;
+  width: 100px;
+  height: 200px;
+}
+.text{
+  margin: 10px;
+  text-align: left;
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.social-acc {
+  display: flex;
+  flex-direction: row;
+}
+.social {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+
+.below-line {
+  background-color: #afd9d5;
+  color: #a43238;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+}

@@ -1,0 +1,12 @@
+.channel-partner{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cpimage{
+    flex-wrap: wrap;
+    width: 200px;
+    height: 300px;
+    padding: 30px;
+  }
+  
