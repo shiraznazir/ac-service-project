@@ -7,3 +7,12 @@
     margin: 10px;
     padding: 10px;
 }
+
+.li-item{
+    list-style: none;
+}
+
+.li-item a{
+    color: rgb(98, 146, 98);
+    text-decoration: none;
+}

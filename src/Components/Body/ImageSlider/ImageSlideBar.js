@@ -1,5 +1,5 @@
 import React from "react";
-import banner from '../images/banner12.png';
+import banner from '../images/banner.png';
 import "./ImageSlideBar.css";
 
 function ImageSlideBar() {

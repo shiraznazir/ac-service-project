@@ -1,8 +1,9 @@
 :root {
-  --primary: #1888ff;
+  --primary: 	#008000;
 }
 
 .btn {
+  
   width: fit-content;
   display: flex;
   align-items: flex-end;

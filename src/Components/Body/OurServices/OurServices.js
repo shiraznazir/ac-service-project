@@ -14,7 +14,8 @@ function OurServices() {
         <p>Call For Service</p>
       </div>
       <p>
-        <a href="tel:+9175050750937">+91 75050750937</a>
+        <h4>Toll Free Number</h4>
+        <a style={{color: "green"}} href="tel:+9118003095992">1800 309 5992</a>
       </p>
     </div>
   );

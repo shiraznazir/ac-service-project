@@ -37,7 +37,10 @@ function About(props) {
         </p>
         <h6>Highly skilled & experienced engineers</h6>
         <h6>Emergency call outs 24/7</h6>
-        <a href="tel:+917505075937">Call Now</a>
+        <h4>Toll Free Number</h4>
+        <a style={{color: "black"}} href="tel:+9118003095992">18003095992</a>
+        <br></br>
+        <a style={{color: "green"}} href="tel:+9118003095992">Call Now</a>
       </div>
     </div>
   );

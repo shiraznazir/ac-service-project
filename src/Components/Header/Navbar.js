@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { Button } from "./Button/Button";
 import "./Navbar.css";
-import Product from './Products/Product';
-import Service from './Services/Service';
-import SparePart from './SpareParts/SparePart';
+import Product from "./Products/Product";
+import Service from "./Services/Service";
+import SparePart from "./SpareParts/SparePart";
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -112,7 +112,7 @@ function Navbar() {
           </li>
           <li>
             <div className="nav-links-mobile" onClick={closeMobileMenu}>
-              Call Now
+               About Us
             </div>
           </li>
         </ul>

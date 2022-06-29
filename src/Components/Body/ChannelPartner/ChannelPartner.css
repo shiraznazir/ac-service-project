@@ -1,8 +1,20 @@
 .channel-partner{
     text-align: center;
     margin-top: 50px;
+    padding: 2px;
+}
+.cp-items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
+@media (max-width: 935px){
+    .cp-items{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 .cpimage{
     flex-wrap: wrap;
     width: 200px;

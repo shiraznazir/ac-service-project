@@ -7,7 +7,7 @@ function AirContainers(){
             <h4>Air Coditioners</h4>
             <ul>
                 <li className="vareity">
-                    Slit Air Conditioner
+                    Split Air Conditioner
                 </li>
                 <li className="vareity">
                     Window Air Conditioner

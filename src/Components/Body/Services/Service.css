@@ -1,6 +1,6 @@
 .section {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
@@ -10,11 +10,22 @@
     background-color: whitesmoke;
     color: black;
   }
-  @media (max-width: 800px) {
-    .section {
+
+  .section-block{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 935px) {
+    .section-block{
       flex-direction: column;
+      flex-wrap: wrap;
+      align-items: center;
+      text-align: center;
     }
   }
+  
   
   .all-services-images {
     width: 25rem;
@@ -28,6 +39,7 @@
     padding-bottom: 0;
     margin-top: 25px;
   }
+
   
   div {
     box-sizing: border-box;

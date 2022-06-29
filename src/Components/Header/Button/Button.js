@@ -7,12 +7,12 @@ export function Button() {
   return (
     <div>
       <div>
-        <a href="tel:+9175050750937">
-          <button className="btn">Call Now</button>
+        <a href="tel:+9118003095992">
+          <button className="btn">18003095992</button>
         </a>
         <div>
           <a
-            href="tel:+9175050750937"
+            href="tel:+9118003095992"
             class="call_float"
             target="_blank"
             rel="noopener noreferrer"
@@ -20,7 +20,7 @@ export function Button() {
             <img src={phone} />
           </a>
           <a
-            href="https://wa.me/75050750937"
+            href="https://wa.me/+917505075937"
             class="whatsapp_float"
             target="_blank"
             rel="noopener noreferrer"

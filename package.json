@@ -1,6 +1,7 @@
 {
   "name": "click-service",
   "version": "0.1.0",
+  "homepage": "https://www.sunshinesolutionservices.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",

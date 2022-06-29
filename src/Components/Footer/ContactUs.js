@@ -25,6 +25,13 @@ function ContactUs() {
         <div className="contact-logo contacts">
           <img src={phone} />
         </div>
+        Toll Free Number:{" "}
+      </h5>
+      <a href="tel:+9118003095992"><p className="toll-free">1800 309 5992</p></a>
+      <h5>
+        <div className="contact-logo contacts">
+          <img src={phone} />
+        </div>
         Phone Number:{" "}
       </h5>
       <p className="address contacts">+91 7505075937</p>

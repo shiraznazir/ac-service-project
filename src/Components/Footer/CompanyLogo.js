@@ -1,4 +1,5 @@
 import React from "react";
+import './Footer.css';
 
 function CompanyLogo(props) {
   return (
@@ -6,7 +7,7 @@ function CompanyLogo(props) {
       <div className="company-logo">
           <img src={props.url} />
       </div>
-      <p className="text">
+      <p className="p-text">
         SunShine Solutions is one of the trusted & independent air conditioner
         service providers in India. At SunShine Solutions, we offer a complete
         solution such as AC installation, AC repair, maintenance and AMC service

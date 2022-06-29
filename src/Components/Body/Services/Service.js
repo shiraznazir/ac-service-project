@@ -14,6 +14,7 @@ function Service() {
         <h2 style={{ color: "#a43238" }}>
           Service And repair for all types of AC
         </h2>
+        <div className="section-block">
         <div class="all-services-images">
           <ul>
             <li>
@@ -25,6 +26,7 @@ function Service() {
                   <li>Filter, coils etc. cleaned with water</li>
                   <li>Checks the elements property</li>
                   <li>Installation and gas charging</li>
+                  <li>AMC Services</li>
                 </ul>
               </div>
             </li>
@@ -41,6 +43,7 @@ function Service() {
                   <li>Filter, coils etc. cleaned with water</li>
                   <li>Checks the elements property</li>
                   <li>Installation and gas charging</li>
+                  <li>AMC Services</li>
                 </ul>
               </div>
             </li>
@@ -57,6 +60,7 @@ function Service() {
                   <li>Filter, coils etc. cleaned with water</li>
                   <li>Checks the performance of the air conditioner</li>
                   <li>Installation and gas charging</li>
+                  <li>AMC Services</li>
                 </ul>
               </div>
             </li>
@@ -73,6 +77,7 @@ function Service() {
                   <li>Filter, coils etc. cleaned with water</li>
                   <li>Checks the performance of the air conditioner</li>
                   <li>Installation and gas charging</li>
+                  <li>AMC Services</li>
                 </ul>
               </div>
             </li>
@@ -89,6 +94,7 @@ function Service() {
                   <li>Filter, coils etc. cleaned with water</li>
                   <li>Checks the performance of the air conditioner</li>
                   <li>Installation and gas charging</li>
+                  <li>AMC Services</li>
                 </ul>
               </div>
             </li>
@@ -109,6 +115,7 @@ function Service() {
               </div>
             </li>
           </ul>
+        </div>
         </div>
       </div>
     </div>
